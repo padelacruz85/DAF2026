@@ -1,0 +1,51 @@
+Product ID Number,Product Name,Product Type,Engine Type,Cooling System,Engine Displacement (cc),Transmission,Manufacturing Year,Acquisition Year,Unit Price (PHP)
+1,Honda CBR500R,Sport,Parallel Twin,Liquid-Cooled,471,6-Speed,2021,2023,389000.0
+2,Yamaha MT-15,Naked Bike,Single Cylinder,Liquid-Cooled,155,6-Speed,2022,2023,178000.0
+3,Kawasaki Ninja 400,Sport,Parallel Twin,Liquid-Cooled,399,6-Speed,2023,2024,340000.0
+4,Suzuki Raider R150 Fi,Underbone,Single Cylinder,Liquid-Cooled,150,6-Speed,2020,2021,119900.0
+5,Royal Enfield Classic 350,Classic,Single Cylinder,Air-Cooled,349,5-Speed,2022,2023,250000.0
+6,CFMoto 300NK,Naked Bike,Single Cylinder,Liquid-Cooled,292,6-Speed,2021,2022,165000.0
+7,Bristol Veloce 500,Cafe Racer,Twin Cylinder,Air-Cooled,471,6-Speed,2022,2023,328000.0
+8,KTM Duke 200,Naked Bike,Single Cylinder,Liquid-Cooled,199,6-Speed,2023,2024,178000.0
+9,Yamaha XSR155,Retro,Single Cylinder,Liquid-Cooled,155,6-Speed,2022,2023,182000.0
+10,Bajaj Dominar 400,Sport Touring,Single Cylinder,Liquid-Cooled,373,6-Speed,2021,2022,199900.0
+11,Yamaha NMAX 155,Scooter,Single Cylinder,Liquid-Cooled,155,CVT,2022,2023,151900.0
+12,Honda ADV 160,Scooter,Single Cylinder,Liquid-Cooled,157,CVT,2023,2024,164900.0
+13,Suzuki Avenis 125,Scooter,Single Cylinder,Air-Cooled,124,CVT,2023,2024,79900.0
+14,KTM RC 200,Sport,Single Cylinder,Liquid-Cooled,199,6-Speed,2021,2022,198000.0
+15,BMW G 310 GS,Adventure,Single Cylinder,Liquid-Cooled,313,6-Speed,2023,2024,320000.0
+16,TVS Apache RTR 200 4V,Naked Bike,Single Cylinder,Oil-Cooled,197,5-Speed,2022,2023,129000.0
+17,Husqvarna Svartpilen 401,Scrambler,Single Cylinder,Liquid-Cooled,373,6-Speed,2023,2024,295000.0
+18,Vespa Primavera 150,Scooter,Single Cylinder,Air-Cooled,150,CVT,2022,2023,210000.0
+19,Suzuki GSX-S150,Naked Bike,Single Cylinder,Liquid-Cooled,147,6-Speed,2021,2022,125000.0
+20,Kawasaki Z400,Naked Bike,Parallel Twin,Liquid-Cooled,399,6-Speed,2023,2024,331000.0
+21,Yamaha Aerox 155,Scooter,Single Cylinder,Liquid-Cooled,155,CVT,2022,2023,124000.0
+22,Bristol Bobber 650,Cruiser,Parallel Twin,Liquid-Cooled,649,6-Speed,2022,2023,398000.0
+23,Keeway RKS 150 Sport,Standard,Single Cylinder,Air-Cooled,149,5-Speed,2021,2022,68900.0
+24,Motorstar Xplorer 250R,Adventure,Single Cylinder,Oil-Cooled,223,6-Speed,2020,2021,78900.0
+25,CFMoto 650MT,Touring,Parallel Twin,Liquid-Cooled,649,6-Speed,2023,2024,345000.0
+26,Honda Click 125i,Scooter,Single Cylinder,Liquid-Cooled,125,CVT,2022,2023,80900.0
+27,Yamaha Sniper 155,Underbone,Single Cylinder,Liquid-Cooled,155,6-Speed,2023,2024,125900.0
+28,Bajaj CT125,Commuter,Single Cylinder,Air-Cooled,125,4-Speed,2021,2022,67900.0
+29,Honda CRF300L,Dual-Sport,Single Cylinder,Liquid-Cooled,286,6-Speed,2023,2024,284900.0
+30,Rusi Flash 125,Commuter,Single Cylinder,Air-Cooled,125,4-Speed,2020,2021,48000.0
+31,SYM Jet X 150,Scooter,Single Cylinder,Liquid-Cooled,149,CVT,2022,2023,128000.0
+32,Harley-Davidson Street 750,Cruiser,V-Twin,Liquid-Cooled,749,6-Speed,2020,2021,499000.0
+33,Zontes 310X,Adventure,Single Cylinder,Liquid-Cooled,312,6-Speed,2023,2024,248000.0
+34,Aprilia SR GT 200,Scooter,Single Cylinder,Liquid-Cooled,174,CVT,2023,2024,219000.0
+35,Yamaha XMAX 300,Scooter,Single Cylinder,Liquid-Cooled,292,CVT,2022,2023,319000.0
+36,Benelli 502C,Cruiser,Parallel Twin,Liquid-Cooled,500,6-Speed,2022,2023,349000.0
+37,Moto Morini X-Cape 650,Adventure,Parallel Twin,Liquid-Cooled,649,6-Speed,2023,2024,369000.0
+38,Yamaha FZi 150,Street,Single Cylinder,Air-Cooled,149,5-Speed,2021,2022,99900.0
+39,Vespa GTS Super 300,Scooter,Single Cylinder,Liquid-Cooled,278,CVT,2023,2024,398000.0
+40,Kawasaki KLX 230,Dual-Sport,Single Cylinder,Air-Cooled,233,6-Speed,2022,2023,199000.0
+41,BMW R nineT,Heritage,Flat Twin,Air/Oil-Cooled,1170,6-Speed,2023,2024,995000.0
+42,Honda Rebel 1100,Cruiser,Parallel Twin,Liquid-Cooled,1084,6-Speed,2023,2024,650000.0
+43,KTM 790 Duke,Naked Bike,Parallel Twin,Liquid-Cooled,799,6-Speed,2023,2024,599000.0
+44,CFMoto 300SR,Sport,Single Cylinder,Liquid-Cooled,292,6-Speed,2023,2024,165000.0
+45,Italjet Dragster 200,Scooter,Single Cylinder,Liquid-Cooled,181,CVT,2023,2024,289000.0
+46,Yamaha Serow 250,Dual-Sport,Single Cylinder,Air-Cooled,249,5-Speed,2020,2021,299000.0
+47,Suzuki Burgman Street 125,Scooter,Single Cylinder,Air-Cooled,124,CVT,2023,2024,80900.0
+48,Zontes GK350,Cafe Racer,Single Cylinder,Liquid-Cooled,348,6-Speed,2023,2024,269000.0
+49,Moto Guzzi V7 Stone,Heritage,V-Twin,Air-Cooled,853,6-Speed,2022,2023,689000.0
+50,SYM Husky 150,Underbone,Single Cylinder,Air-Cooled,150,CVT,2022,2023,72900.0
