@@ -1,0 +1,15 @@
+Check,Result,Detail
+Missing values,PASS,0 blank cells across 9 columns
+Duplicate records,PASS,0 duplicate rows (ignoring Transaction ID)
+Unique Transaction ID,PASS,993 IDs for 993 rows
+Data types,PASS,"Date = datetime, Quantity = integer, prices/totals = float"
+Dates inside Q3 window,PASS,"Jun 01, 2025 to Aug 31, 2025"
+No zero / negative values,PASS,"0 non-positive prices, quantities or totals"
+Total = Unit Price x Quantity,PASS,largest difference PHP 0.00
+Referential integrity (Sales -> Products),PASS,0 sales rows point to unknown product IDs
+Product names match catalogue,PASS,0 mismatches
+Unit prices match catalogue,PASS,0 mismatches
+Category labels clean,PASS,"17 categories, no blanks or stray spaces"
+'Unknown' placeholders (kept),PASS,20 rows (2.0%) = 1.5% of revenue; not charted
+Quantity outliers (IQR rule),PASS,0 above IQR fence; largest order 50 units - kept
+Products with no Q3 sales,PASS,0 of 50 products unsold
