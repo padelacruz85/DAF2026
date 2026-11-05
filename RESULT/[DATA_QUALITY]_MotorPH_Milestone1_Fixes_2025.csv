@@ -1,7 +1,0 @@
-Issue found in raw Sales data (Milestone 1),How it was resolved
-Dates stored as text in mixed formats,Parsed 7 formats into one datetime column
-Blank / impossible dates (e.g. 2025/07/32),"7 rows removed: 1,000 raw -> 993 clean rows"
-Blank Client Type (10) and Payment (10),Cannot be inferred -> labelled 'Unknown'
-13 corrupted product names (ends in 'x'),Matched back to the product list (15 rows)
-20 unit prices exactly 3x the catalogue price,Restored from catalogue; totals were already right
-"Unclear column names (unitprice, total ...)",Renamed for reporting; Product ID added
